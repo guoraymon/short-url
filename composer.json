@@ -1,0 +1,12 @@
+{
+  "require": {
+    "symfony/dotenv": "^5.1",
+    "lastguest/murmurhash": "^2.0",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
